@@ -37,44 +37,28 @@
       <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Python.png">
     </td>
   </tr>
- <tr>
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/html5-display.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nodejs</center></b></span> 
-<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
-</td>
-</tr>
-
-<tr>
-  
-  <td align="center" width="20%">
-<span><b><center>VS Code</center></b></span> 
-<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Mongo DB</center></b></span> 
-<img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/html5-display.jpg"> 
+    </td>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
+    </td>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
+    </td>
+    <td align="center" width="20%">
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
+    </td>
+    <td align="center" width="20%">
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
+    </td>
+  </tr>
 
 <tr>
 <td align="center" width="20%">
