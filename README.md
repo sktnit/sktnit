@@ -43,13 +43,13 @@
 </td>
 </tr>
 
-<td align="center" width="20%">
-<span><b><center>Nodejs</center></b></span> 
+<tr>
+  
+  <td align="center" width="20%">
+<span><b><center>VS Code</center></b></span> 
 <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
 </td>
 </tr>
-
-<tr>
 <td align="center" width="20%">
 <span><b><center>Flask</center></b></span> 
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
