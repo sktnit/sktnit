@@ -15,10 +15,8 @@
   <a href="http://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://t.me/shaileshnit/">
-    <img src="https://img.shields.io/telegram/shaileshnit?logo=Telegram&style=for-the-badge" />
-  </a>
   <a href="https://discord.gg/xuJFYA">
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
 </p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true" /></p>
