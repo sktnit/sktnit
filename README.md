@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#">
-    <img height=60px width=270px src="https://img.shields.io/static/v1?label=Tech&message=Stack&color=brightgreen&logo=ReverbNation&style=flat-square" />
+    <img height=400px width=270px src="https://img.shields.io/static/v1?label=Tech&message=Stack&color=brightgreen&logo=ReverbNation&?logoColor=white&style=flat-square" />
   </a>
 </p>
 
