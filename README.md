@@ -28,13 +28,13 @@
 <tbody>
   <tr>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/C%2B%2B.png">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/C%2B%2B.png">
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Java.png">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Java.png">
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Python.png">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Python.png">
     </td>
   </tr>
   <tr>
