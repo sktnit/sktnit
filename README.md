@@ -18,9 +18,11 @@
 
 <p align="center">
   <a href="#">
-    <img height=60px width=270px src="https://img.shields.io/static/v1?label=Tech&message=Stack&color=brightgreen&logo=data:https://github.com/shaileshnit/shaileshnit/blob/master/img/img/computer.logo.png&style=flat-square" />
+    <img height=60px width=270px src="https://img.shields.io/static/v1?label=Tech&message=Stack&color=brightgreen&logo=https://github.com/shaileshnit/shaileshnit/blob/master/img/img/computer.logo.png,base64&style=flat-square" />
   </a>
 </p>
+
+
 ## Tech Stack :computer:
 <table>
 <tbody>
