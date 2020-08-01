@@ -9,19 +9,6 @@
 - ⚡ Fun fact: One thing I cannot live without is Internet and My laptop
 <!-- - 🤔 I’m looking for help with ... -->
 
-<p align="center">
-  <a href="https://github.com/shaileshnit?tab=followers">
-    <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/xuJFYA">
-    <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
-  </a>
-</p>
-<br>
-
 ## Tech Stack :computer:
 <table>
 <tbody>
@@ -81,5 +68,17 @@
 </tbody>
 </table>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=79ff97&text_color=ffffff&bg_color=0a192f"/></p>
+<p align="center">
+  <a href="https://github.com/shaileshnit?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/">
+    <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/xuJFYA">
+    <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
+  </a>
+</p>
+<br>
 
 If you like the Repository give it a :star: and also follow me on Github :grinning:
