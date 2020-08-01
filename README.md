@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate for my Node.js Backend Development
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">
-    <img src="https://img.shields.io/static/v1?label=Gmail&message=skt.nit.18@gmail.com&color=brightgreen&logo=Gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=skt.nit.18@gmail.com&color=brightgreen&logo=Gmail&style=for-the-badge&bg_color=0a192f" />
   </a>
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: One thing I cannot live without is Internet and My laptop
