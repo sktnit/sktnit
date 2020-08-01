@@ -19,4 +19,4 @@
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
 </p>
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f"" /></p>
