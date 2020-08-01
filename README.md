@@ -1,5 +1,9 @@
-<h1 align="center">Hello There 👋</h1>
-
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=brightgreen&logo=GitHub&style=for-the-badge" />
+  </a>
+</p>
+  
 - 🔭 I’m currently studying in MANIT BHOPAL.
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate for my Node.js Backend Development
@@ -71,7 +75,7 @@
 
 <p align="center">
   <a href="https://t.me/pwshell">
-    <img src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=for-the-badge" />
   </a>
   <a href="http://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
@@ -83,7 +87,7 @@
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
   <a href="#">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 <br>
