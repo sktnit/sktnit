@@ -3,7 +3,25 @@
     <img height=60px width=270px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=brightgreen&logo=GitHub&style=for-the-badge" />
   </a>
 </p>
-  
+<p align="center">
+  <a href="https://t.me/pwshell">
+    <img height=28px src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=flat-square" />
+  </a>
+  <a href="http://twitter.com/">
+    <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/shaileshnit?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://discord.gg/xuJFYA">
+    <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+<br>
+
 - 🔭 I’m currently studying in MANIT BHOPAL.
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate for my Node.js Backend Development
@@ -79,24 +97,6 @@
 
 </tbody>
 </table>
-
-<p align="center">
-  <a href="https://t.me/pwshell">
-    <img height=28px src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=flat-square" />
-  </a>
-  <a href="http://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shaileshnit?tab=followers">
-    <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://discord.gg/xuJFYA">
-    <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 <br>
 
 If you like the Repository give it a :star: and also follow me on Github :grinning:
