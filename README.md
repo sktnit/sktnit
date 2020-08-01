@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://t.me/shaileshnit">
-    <img src="https://img.shields.io/t.me/shaileshnit?logo=Telegram&style=for-the-badge" />
+    <img src="https://img.shields.io/telegram/shaileshnit?logo=Telegram&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/xuJFYA">
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
