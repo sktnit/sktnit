@@ -39,39 +39,39 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/html5-display.jpg"> 
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/html5-display.jpg"> 
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/jQuery.png"> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
-    </td>
-    <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
-    </td>
-    <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/jQuery.png"> 
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/django.jpeg"> 
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
     </td>
     <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Sql.png">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
     </td>
     <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/django.jpeg"> 
+    </td>
+    <td align="center" width="20%">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Sql.png">
+    </td>
+    <td align="center" width="20%">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
     </td>
   <tr>
     <td align="center" width="20%">
-    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
+    <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
     </td>
     <td align="center" width="20%">
     </td>
