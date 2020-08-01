@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://t.me/pwshell">
-    <img src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=flat-square" />
   </a>
   <a href="http://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
