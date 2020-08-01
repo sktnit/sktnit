@@ -1,4 +1,4 @@
-## Hello there 👋
+<h1 align="center" style="color:white background-color:black"> Hello There 👋 </h1>
 
 - 🔭 I’m currently studying in MANIT BHOPAL.
 - 🌱 I’m currently learning Full Stack Development
