@@ -26,6 +26,17 @@
 <br>
 <table>
 <tbody>
+  <tr>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/C%2B%2B.png">
+    </td>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Java.png">
+    </td>
+    <td align="center" width="20%">
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Python.png">
+    </td>
+  </tr>
  <tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
