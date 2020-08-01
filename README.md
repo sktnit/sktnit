@@ -59,21 +59,25 @@
       <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
     </td>
   </tr>
-
-<tr>
-  <td align="center" width="20%">
+  <tr>
+    <td align="center" width="20%">
       <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/django.jpeg"> 
-   </td>
-  <td align="center" width="20%">
-    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Sql.png">
-  </td>
-  <td align="center" width="20%">
-    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
-  </td>
-  <td align="center" width="20%">
+    </td>
+    <td align="center" width="20%">
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Sql.png">
+    </td>
+    <td align="center" width="20%">
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
+    </td>
+  <tr>
+    <td align="center" width="20%">
     <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
-  </td>
-</tr>
+    </td>
+    <td align="center" width="20%">
+    </td>
+    <td align="center" width="20%">
+    </td>
+  </tr>
 
 </tbody>
 </table>
