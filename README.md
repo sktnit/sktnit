@@ -16,6 +16,6 @@
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/739069642043031602/739069763271131166?logo=discord&style=for-the-badge" />
+    <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
 </p>
