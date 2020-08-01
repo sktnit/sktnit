@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img height=60px width=270px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=red&logo=GitHub&style=for-the-badge" />
+    <img height=60px width=250px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=red&logo=GitHub&style=for-the-badge" />
   </a>
 </p>
 <p align="center">
