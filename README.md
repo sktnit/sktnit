@@ -1,4 +1,4 @@
-<h1 align="center" style="text_color:white"> Hello There 👋 </h1>
+<h1 align="center&text_color=ffffff&bg_color=0a192f"> Hello There 👋 </h1>
 
 - 🔭 I’m currently studying in MANIT BHOPAL.
 - 🌱 I’m currently learning Full Stack Development
@@ -19,4 +19,4 @@
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
 </p>
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f"" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" /></p>
