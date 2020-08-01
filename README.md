@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img height=60px width=270px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=brightgreen&logo=GitHub&style=for-the-badge" />
+    <img height=60px width=270px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=red&logo=GitHub&style=for-the-badge" />
   </a>
 </p>
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="#">
-    <img height=40px width=175px src="https://img.shields.io/static/v1?label=Tech&message=Stacks&color=0a192f&logo=ReverbNation&logoColor=white&style=flat-square" />
+    <img height=40px width=175px src="https://img.shields.io/static/v1?label=Tech&message=Stacks&color=red&logo=ReverbNation&logoColor=white&style=flat-square" />
   </a>
 </p>
 
