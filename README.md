@@ -45,7 +45,7 @@
       <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
     </td>
     <td align="center" width="20%">
-      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
+      <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/jQuery.png"> 
     </td>
   </tr>
   <tr>
@@ -53,28 +53,26 @@
       <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
     </td>
     <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
     </td>
     <td align="center" width="20%">
-      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Flask.jpeg"> 
     </td>
   </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
+  <td align="center" width="20%">
+      <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/django.jpeg"> 
+   </td>
+  <td align="center" width="20%">
+    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Sql.png">
+  </td>
+  <td align="center" width="20%">
+    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/mongoDB.jpg"> 
+  </td>
+  <td align="center" width="20%">
+    <img height=65px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/git.png"> 
+  </td>
 </tr>
 
 </tbody>
