@@ -15,7 +15,7 @@
   <a href="http://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
+  <a href="https://discord.gg/xuJFYA">
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
 </p>
