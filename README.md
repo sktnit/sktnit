@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/shaileshnit?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://t.me/pwshell">
-    <img height=28px src="https://img.shields.io/static/v1?label=telegram&message=@shaileshnit&color=brightgreen&logo=Telegram&style=flat-square" />
+    <img height=28px src="https://img.shields.io/static/v1?label=telegram&message=@pwshell&color=brightgreen&logo=Telegram&style=flat-square" />
   </a>
   <a href="https://github.com/shaileshnit?tab=followers">
     <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
