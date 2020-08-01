@@ -79,6 +79,9 @@
   <a href="https://discord.gg/xuJFYA">
     <img src="https://img.shields.io/discord/739069642043031602?logo=discord&style=for-the-badge" />
   </a>
+  <a href="">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?color=green&label=JS%20repo%20size&logo=javascript&logoColor=white&style=flat-square">
+  </a>
 </p>
 <br>
 
