@@ -28,18 +28,24 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>HTML5</center></b></span> 
+<span><b><center>HTML</center></b></span> 
+<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/html5-display.jpg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
 <img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Nodejs</center></b></span> 
+<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/nodejs.jpeg"> 
 </td>
+</tr>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>Nodejs</center></b></span> 
+<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/VSCODE.png"> 
 </td>
 </tr>
 
