@@ -28,8 +28,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>HTML5</center></b></span> 
+<img height=60px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/css3.jpg"> 
 </td>
 
 <td align="center" width="20%">
