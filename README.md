@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: One thing I cannot live without is Internet and My laptop
 <!-- - 🤔 I’m looking for help with ... -->
-## Tech Stack :computer:
+
 <p align="center">
   <a href="https://github.com/shaileshnit?tab=followers">
     <img src="https://img.shields.io/github/followers/shaileshnit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -21,6 +21,7 @@
   </a>
 </p>
 <br>
+## Tech Stack :computer:
 <table>
 <tbody>
   <tr>
