@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="#">
-    <img height=50px width=250px src="https://img.shields.io/static/v1?label=HELLO&message=THERE&color=red&logo=GitHub&style=for-the-badge" />
-  </a>
-</p>
+<!--<p align="center">
   <a href="#">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge" />
   </a>
-</p>
+</p>-->
 <br>
 
 - 🔭 I’m just completed M.Tech from MANIT BHOPAL, 2020.
