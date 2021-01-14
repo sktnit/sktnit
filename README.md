@@ -27,6 +27,11 @@
 <tbody>
   <tr>
     <td align="center" width="20%">
+      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Full%20Stack%20React%402x.png">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
       <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/C%2B%2B.png">
     </td>
     <td align="center" width="20%">
