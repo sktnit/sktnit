@@ -3,6 +3,10 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/shaileshnit/js?label=JS%20repo%20size&logo=javascript&logoColor=white&style=for-the-badge" />
   </a>
 </p>-->
+
+<img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Full%20Stack%20React%402x.png">
+
+
 <br>
 
 - 🔭 I’m just completed M.Tech from MANIT BHOPAL, 2020.
@@ -23,13 +27,10 @@
   </a>
 </p>
 
+
+
 <table>
 <tbody>
-  <tr>
-    <td align="center" width="20%">
-      <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Full%20Stack%20React%402x.png">
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <img height=100px src="https://github.com/shaileshnit/shaileshnit/blob/master/img/img/C%2B%2B.png">
