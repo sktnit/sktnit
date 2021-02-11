@@ -4,7 +4,7 @@
   </a>
 </p>-->
 
-![alt text](https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Full%20Stack%20React%402x.png?raw=true)
+<!--![alt text](https://github.com/shaileshnit/shaileshnit/blob/master/img/img/Full%20Stack%20React%402x.png?raw=true)-->
 
 <br>
 
