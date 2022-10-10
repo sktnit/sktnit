@@ -8,9 +8,9 @@
 
 <br>
 
-- 🔭 I’m just completed M.Tech from MANIT BHOPAL, 2020.
-- 🌱 I’m currently learning Full Stack Development(MERN)
-- 👯 I’m looking to collaborate for my Node.js Backend Development
+- 🔭 I completed M.Tech from MANIT BHOPAL, 2020.
+- 🌱 I’m currently working on Full Stack Development(MERN).
+- 👯 I’m looking for a job in Full Stack.
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">
     <img height=25px src="https://img.shields.io/static/v1?label=Gmail&message=sktnit.cs18@gmail.com&color=black&logo=Gmail&style=social" />
