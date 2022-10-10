@@ -16,7 +16,7 @@
     <img height=25px src="https://img.shields.io/static/v1?label=Gmail&message=sktnit.cs18@gmail.com&color=black&logo=Gmail&style=social" />
   </a>
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: One thing I cannot live without is Internet and My laptop
+- ⚡ Fun fact: Cannot imagine life without Internet
 <!-- - 🤔 I’m looking for help with ... -->
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=79ff97&text_color=ffffff&bg_color=5519f0"/></p>
 
