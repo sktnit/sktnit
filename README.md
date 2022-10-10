@@ -26,6 +26,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#">
+    <img height=600px width=175px src="https://user-images.githubusercontent.com/67646236/194931669-109894c9-f0c7-44e8-a778-3795bccb8a83.png" />
+  </a>
+</p>
 
 
 <table>
@@ -86,7 +91,7 @@
 </tbody>
 </table>
 <br>
+
 <p align="center">
   If you like the Repository give it a :star: and also follow me on Github :grinning:
 </p>
-![image](https://user-images.githubusercontent.com/67646236/194931323-bf11064b-631e-4a08-b57d-fd439773ccd9.png)
