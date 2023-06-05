@@ -18,20 +18,6 @@
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: Cannot imagine life without Internet
 <!-- - 🤔 I’m looking for help with ... -->
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=shaileshnit&show_icons=true&title_color=08fdd8&icon_color=79ff97&text_color=ffffff&bg_color=5519f0"/></p>
-
-<p align="center">
-  <a href="#">
-    <img height=40px width=175px src="https://img.shields.io/static/v1?label=Tech&message=Stacks&color=red&logo=ReverbNation&logoColor=white&style=flat-square" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img height=800px width=600px src="https://user-images.githubusercontent.com/67646236/194931669-109894c9-f0c7-44e8-a778-3795bccb8a83.png" />
-  </a>
-</p>
-
 
 <table>
 <tbody>
