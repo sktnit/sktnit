@@ -80,7 +80,7 @@
 <!-- 					<p>Description goes here</p> -->
 				</div>
         </tr>
-	    <tr>
+<!-- 	    <tr>
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
@@ -121,7 +121,7 @@
 		    <p>Description goes here</p>
                 </div>	
             </td>
-        </tr>
+        </tr> -->
 	</table>
 </div>
 <br />
