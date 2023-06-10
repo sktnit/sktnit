@@ -1,9 +1,9 @@
 <div id="" align="center">
   <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/githubprofile.jpg" width="100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
-<h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h1 align="center">Hi 👋, I'm Shailesh Kumar Thakur</h1>
+<h3 align="center">A full stack developer from Bengaluru, India</h3>
+<h4 align="center">Hi my name is Shailesh Kumar Thakur a developer based out of Bengaluru. I've worked on web development/mobile app development for more than 2+ years. My main focus these days is building accessible, inclusive products and digital experiences at Techpearl Software for a variety of clients. </h4>
 
 <hr>
 
