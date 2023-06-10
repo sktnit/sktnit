@@ -76,7 +76,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>ReactJs, React Native, Redux, Material UI, AWS EC2, Redis, MySql,  </strong></p>
+					 <p><strong>ReactJs, React Native, Redux, Material UI, AWS EC2, Redis, MySql  </strong></p>
 <!-- 					<p>Description goes here</p> -->
 				</div>
         </tr>
