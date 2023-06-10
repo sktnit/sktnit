@@ -47,10 +47,10 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+<!-- 						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://google.com" target="_blank">
+						</a>   -->
+						<a href="https://swae-develop.swaedev.com/feed" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
