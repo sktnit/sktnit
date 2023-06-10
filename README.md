@@ -41,8 +41,8 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://google.com' target="_blank">
-						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					<a href='https://swae-develop.swaedev.com/feed' target="_blank">
+						<img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
