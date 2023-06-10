@@ -76,8 +76,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>ReactJs, Material UI, AWS Services, NodeJS </strong></p>
+<!-- 					<p>Description goes here</p> -->
 				</div>
         </tr>
 	    <tr>
