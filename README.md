@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Shailesh Kumar Thakur</h1>
 <h3 align="center">A full stack developer from Bengaluru, India</h3>
-<h4 align="center">Hi my name is Shailesh Kumar Thakur a developer based out of Bengaluru. I've worked on web development/mobile app development for more than 2+ years. My main focus these days is building accessible, inclusive products and digital experiences at Techpearl Software for a variety of clients. </h4>
+<h4 align="center">Hi my name is Shailesh Kumar Thakur a developer based out of Bengaluru, India. I've worked on web development/mobile app development for more than 2+ years. My main focus these days is building accessible, inclusive products and digital experiences at Techpearl Software for a variety of clients. </h4>
 
 <hr>
 
