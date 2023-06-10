@@ -149,10 +149,10 @@
 <h2 align="center">Stats</h2>
 <h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingphasedotcom&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sktnit&show_icons=true&locale=en&layout=compact" alt="sktnit" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingphasedotcom&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sktnit&show_icons=true&locale=en" alt="sktnit" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sktnit&" alt="sktnit" /></p>
 </div>
 <br>
