@@ -1,3 +1,4 @@
+<a href='https://sktnit.github.io/' target="_blank">
 <div id="" align="center">
   <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/githubprofile.jpg" width="100%"/>
 </div>
@@ -156,3 +157,4 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sktnit&" alt="sktnit" /></p>
 </div>
 <br>
+</a>
