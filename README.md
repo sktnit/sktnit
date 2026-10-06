@@ -1,160 +1,246 @@
-<a href='https://sktnit.github.io/' target="_blank"> My Portfolio</a>
+<a href="https://sktnit.github.io/" target="_blank">My Portfolio</a>
+
 <div id="" align="center">
   <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/githubprofile.jpg" width="100%"/>
 </div>
+
 <h1 align="center">Hi 👋, I'm Shailesh Kumar Thakur</h1>
-<h3 align="center">A full stack developer from Bengaluru, India</h3>
-<h4 align="center">Hi, my name is Shailesh Kumar Thakur, a developer based in Bengaluru, India. </h4> I've worked on web development/mobile app development for more than 5+ years. My main focus these days is building accessible, inclusive products and fintech experiences at Wissen Technology. </h4>
 
-<hr>
+<h3 align="center">Senior Software Engineer | Java | Spring Boot | React | AWS | Full Stack</h3>
 
-
-<!-- TECHS -->
-
-<h2 align="center">Skills</h2>
-
-<div align="center">
-                <br>
-                    <div align="center" >  
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-						<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="css3" width="75" height="75"/>
-<!--                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/>  -->
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-<!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/> -->
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                    </div>
-</div>
-
-<br>
-<hr>
-
-<!-- PROJECTS -->
-
-<h2 align="center">Projects</h2>
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Project 1</h3>
-				<div align="center">  
-					<a href='https://swae-develop.swaedev.com/feed' target="_blank">
-						<img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true" alt="project 1" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-<!-- 						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>   -->
-						<a href="https://swae-develop.swaedev.com/feed" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>ReactJs, Material UI, AWS Services, NodeJS </strong></p>
-<!--           <p>
-						Description goes here
-					</p> -->
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Project 2</h3>
-				<div align="center" >  
-					<a href='https://staging-admin-unison.tonalinnovation.com/organizations' target="_blank">
-						<img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/unison.png" alt="project 2" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-<!-- 						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>   -->
-						<a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>ReactJs, React Native, Redux, Material UI, AWS EC2, Redis, MySql  </strong></p>
-<!-- 					<p>Description goes here</p> -->
-				</div>
-        </tr>
-<!-- 	    <tr>
-            <td width="50%">
-                <h3 align="center">Project 3</h3>
-                <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>
-            </td>
-            <td width="50%">
-                <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>	
-            </td>
-        </tr> -->
-	</table>
-</div>
-<br />
-<br />
-<hr>
-
-
-<!-- SOCIALS -->
-
-<h2 align="center">Contact Me</h2>
 <p align="center">
-	&nbsp&nbsp&nbsp
-<!-- 	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp -->
-<a href="https://www.linkedin.com/in/sktnit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sktnit" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<!-- <a href="https://instagram.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a> -->
+  Senior Software Engineer with 5+ years of experience building scalable enterprise applications, RESTful APIs, microservices, and cloud-based solutions.
+</p>
+
+<p align="center">
+  Currently working with Java, Spring Boot, React.js, Redux, AWS, REST APIs, WebSockets, and databases to build secure and scalable fintech and enterprise applications.
 </p>
 
 <hr>
 
+<!-- ABOUT -->
 
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
+<h2 align="center">About Me</h2>
 
-<h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
+* 💻 Senior Software Engineer with **5+ years of full-stack development experience**
+* ☕ Focused on **Java, Spring Boot, RESTful APIs, and backend development**
+* ⚛️ Experienced in building scalable applications using **React.js, React Native, and Redux**
+* ☁️ Experienced with **AWS cloud and serverless technologies**
+* 🏗️ Interested in **Microservices, Distributed Systems, System Design, and scalable architectures**
+* 🔐 Experience with **RBAC, authentication, authorization, and secure API development**
+* 📊 Experience building **financial analytics, portfolio management, SaaS, and B2B applications**
+* 🤝 Enjoy collaborating with cross-functional teams, reviewing code, and mentoring developers
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sktnit&show_icons=true&locale=en&layout=compact" alt="sktnit" /></p>
+<hr>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sktnit&show_icons=true&locale=en" alt="sktnit" /></p>
+<!-- TECHNICAL SKILLS -->
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sktnit&" alt="sktnit" /></p>
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
+
+### Backend & Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+</p>
+
+**Java • Spring Boot • Node.js • Express.js • JavaScript • TypeScript • RESTful APIs • Microservices • WebSockets**
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+</p>
+
+**React.js • React Native • Redux • HTML5 • CSS3 • Material UI**
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+</p>
+
+**AWS • Lambda • S3 • RDS • DynamoDB • API Gateway • CloudFront • Cognito • IAM • Docker • Serverless**
+
+### Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+</p>
+
+**PostgreSQL • MongoDB • DynamoDB • MySQL • SQL • Relational Database Design • NoSQL**
+
+### Engineering & Architecture
+
+**Object-Oriented Programming • Design Patterns • Microservices • Distributed Systems • REST API Design • Serverless Architecture • RBAC • Authentication • Authorization • Code Reviews • Agile Development • Performance Optimization**
+
+### Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+</p>
+
+**Git • GitHub • Docker • AWS SDK • VS Code**
+
 </div>
+
+<hr>
+
+<!-- EXPERIENCE -->
+
+<h2 align="center">Professional Experience</h2>
+
+### 🚀 Wissen Technology — Software Engineer
+
+**Jun 2025 – Present**
+
+Working on enterprise financial and portfolio management applications using:
+
+**Java • Spring Boot • React.js • Redux • MongoDB • REST APIs • WebSockets**
+
+* Developing scalable enterprise applications for financial and portfolio management.
+* Building secure RESTful APIs and backend services using Java and Spring Boot.
+* Developing financial analytics dashboards and data-driven workflows.
+* Implementing granular role-based access control and data isolation.
+* Collaborating with cross-functional teams to design and deliver scalable product features.
+* Participating in code reviews, technical discussions, troubleshooting, and mentoring.
+
+### 🚀 Techpearl Software Pvt. Ltd. — Senior Software Engineer
+
+**Jun 2021 – Jun 2025**
+
+Worked on multiple SaaS, B2B, AI, and enterprise applications using:
+
+**React.js • React Native • Node.js • Java • Spring Boot • AWS • DynamoDB • PostgreSQL • MySQL**
+
+* Developed end-to-end full-stack applications and backend services.
+* Designed RESTful APIs and cloud-based application architectures.
+* Built AWS serverless solutions using Lambda, DynamoDB, S3, API Gateway, and other AWS services.
+* Implemented secure authentication, authorization, and role-based access control.
+* Integrated third-party platforms including Stripe and Slack.
+* Participated in technical design, code reviews, troubleshooting, and delivery of production features.
+
+<hr>
+
+<!-- PROJECTS -->
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Swae</h3>
+        <div align="center">
+          <a href="https://swae-develop.swaedev.com/feed" target="_blank">
+            <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true" alt="Swae project" height="100%"/>
+          </a>
+          <br><br>
+          <p>
+            <a href="https://swae-develop.swaedev.com/feed" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>
+          </p>
+          <p><strong>React.js • React Native • Node.js • AWS • DynamoDB • Redux • WebSockets</strong></p>
+          <p>
+            AI-based collective decision-making platform with proposals, comments, reactions, real-time communication, authentication, payments, and administrative workflows.
+          </p>
+        </div>
+      </td>
+
+```
+  <td width="50%">
+    <h3 align="center">UNISON</h3>
+    <div align="center">
+      <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
+        <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/unison.png" alt="UNISON project" height="100%"/>
+      </a>
+      <br><br>
+      <p>
+        <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
+          <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+        </a>
+      </p>
+      <p><strong>React.js • React Native • Redux • Node.js • AWS • MySQL • Redis</strong></p>
+      <p>
+        Music collaboration platform supporting multiple bands, directors, and members with role-based workflows and RESTful APIs.
+      </p>
+    </div>
+  </td>
+</tr>
+```
+
+  </table>
+</div>
+
+<hr>
+
+<!-- CURRENT FOCUS -->
+
+<h2 align="center">Currently Exploring</h2>
+
+<p align="center">
+  Java & Spring Boot • Microservices • System Design • Distributed Systems • AWS • Cloud Architecture • Scalable Backend Systems
+</p>
+
+<hr>
+
+<!-- SOCIALS -->
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sktnit/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sktnit.github.io/" target="_blank">🌐 Portfolio</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sktnit/" target="_blank">💼 LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/sktnit" target="_blank">🐙 GitHub</a>
+</p>
+
+<hr>
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sktnit&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sktnit&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sktnit" alt="GitHub Streak"/>
+</p>
+
+</div>
+
 <br>
+<hr>
+
+<p align="center">
+  <i>Building scalable software, learning continuously, and solving real-world problems with technology.</i>
+</p>
