@@ -137,54 +137,75 @@ Worked on multiple SaaS, B2B, AI, and enterprise applications using:
 
 <!-- PROJECTS -->
 
+<!-- PROJECTS -->
+
 <h2 align="center">Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Swae</h3>
-        <div align="center">
-          <a href="https://swae-develop.swaedev.com/feed" target="_blank">
-            <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true" alt="Swae project" height="100%"/>
-          </a>
-          <br><br>
-          <p>
-            <a href="https://swae-develop.swaedev.com/feed" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-            </a>
-          </p>
-          <p><strong>React.js • React Native • Node.js • AWS • DynamoDB • Redux • WebSockets</strong></p>
-          <p>
-            AI-based collective decision-making platform with proposals, comments, reactions, real-time communication, authentication, payments, and administrative workflows.
-          </p>
-        </div>
-      </td>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>SWAE</h3>
 
 ```
-  <td width="50%">
-    <h3 align="center">UNISON</h3>
-    <div align="center">
-      <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
-        <img src="https://github.com/sktnit/shaileshnit/blob/master/img/img/unison.png" alt="UNISON project" height="100%"/>
-      </a>
-      <br><br>
-      <p>
-        <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
-          <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-        </a>
-      </p>
-      <p><strong>React.js • React Native • Redux • Node.js • AWS • MySQL • Redis</strong></p>
-      <p>
-        Music collaboration platform supporting multiple bands, directors, and members with role-based workflows and RESTful APIs.
-      </p>
-    </div>
-  </td>
-</tr>
+  <a href="https://swae-develop.swaedev.com/feed" target="_blank">
+    <img
+      src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true"
+      alt="SWAE project"
+      width="100%"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://swae-develop.swaedev.com/feed" target="_blank">
+    <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge" alt="Live Demo"/>
+  </a>
+
+  <br><br>
+
+  <strong>React.js • React Native • Node.js • AWS • DynamoDB • Redux • WebSockets</strong>
+
+  <p>
+    AI-based collective decision-making platform featuring proposals,
+    comments, reactions, real-time communication, authentication,
+    payments, and administrative workflows.
+  </p>
+</td>
+
+<td width="50%" align="center">
+  <h3>UNISON</h3>
+
+  <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
+    <img
+      src="https://github.com/sktnit/shaileshnit/blob/master/img/img/unison.png?raw=true"
+      alt="UNISON project"
+      width="100%"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
+    <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge" alt="Live Demo"/>
+  </a>
+
+  <br><br>
+
+  <strong>React.js • React Native • Redux • Node.js • AWS • MySQL • Redis</strong>
+
+  <p>
+    Music collaboration platform supporting multiple bands, directors,
+    and members with role-based workflows and RESTful APIs.
+  </p>
+</td>
 ```
 
-  </table>
-</div>
+  </tr>
+</table>
+
+<br>
+<hr>
+
 
 <hr>
 
