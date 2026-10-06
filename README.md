@@ -137,77 +137,59 @@ Worked on multiple SaaS, B2B, AI, and enterprise applications using:
 
 <!-- PROJECTS -->
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">Featured Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>SWAE</h3>
+## Featured Projects
 
-```
-  <a href="https://swae-develop.swaedev.com/feed" target="_blank">
-    <img
-      src="https://github.com/sktnit/shaileshnit/blob/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png?raw=true"
-      alt="SWAE project"
-      width="100%"
-    />
-  </a>
+### 💰 Descrial
 
-  <br><br>
+**Tech Stack:** Java • Spring Boot • React • React Native • Redux • WebSockets • MongoDB • RESTful APIs
 
-  <a href="https://swae-develop.swaedev.com/feed" target="_blank">
-    <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge" alt="Live Demo"/>
-  </a>
+Fintech platform for private equity and target fund management, enabling deal tracking, vendor collaboration, and role-based workflows with real-time updates powered by secure RESTful APIs and WebSocket communication.
 
-  <br><br>
+---
 
-  <strong>React.js • React Native • Node.js • AWS • DynamoDB • Redux • WebSockets</strong>
+### 🚀 Swae
 
-  <p>
-    AI-based collective decision-making platform featuring proposals,
-    comments, reactions, real-time communication, authentication,
-    payments, and administrative workflows.
-  </p>
-</td>
+<a href="https://swae-develop.swaedev.com/feed" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/sktnit/shaileshnit/master/img/img/Screenshot%202023-06-10%20at%201.37.33%20PM.png"
+    alt="Swae project"
+    width="700"
+  />
+</a>
 
-<td width="50%" align="center">
-  <h3>UNISON</h3>
+**[Live Demo →](https://swae-develop.swaedev.com/feed)**
 
-  <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
-    <img
-      src="https://github.com/sktnit/shaileshnit/blob/master/img/img/unison.png?raw=true"
-      alt="UNISON project"
-      width="100%"
-    />
-  </a>
+**Tech Stack:** React.js • React Native • Java • Spring Boot • Node.js • AWS • DynamoDB • Redux • WebSockets
 
-  <br><br>
+AI-based collective decision-making platform with proposals, comments, reactions, real-time communication, authentication, payments, and administrative workflows.
 
-  <a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
-    <img src="https://img.shields.io/badge/Live-0892d0?style=for-the-badge" alt="Live Demo"/>
-  </a>
+---
 
-  <br><br>
+### 🎵 UNISON
 
-  <strong>React.js • React Native • Redux • Node.js • AWS • MySQL • Redis</strong>
+<a href="https://staging-admin-unison.tonalinnovation.com/organizations" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/sktnit/shaileshnit/master/img/img/unison.png"
+    alt="UNISON project"
+    width="700"
+  />
+</a>
 
-  <p>
-    Music collaboration platform supporting multiple bands, directors,
-    and members with role-based workflows and RESTful APIs.
-  </p>
-</td>
-```
+**[Live Demo →](https://staging-admin-unison.tonalinnovation.com/organizations)**
 
-  </tr>
-</table>
+**Tech Stack:** React.js • React Native • Redux • Java • Spring boot • AWS • MySQL • Redis
+
+Music collaboration platform supporting multiple bands, directors, and members with role-based workflows and RESTful APIs.
+
 
 <br>
-<hr>
-
 
 <hr>
+
 
 <!-- CURRENT FOCUS -->
 
